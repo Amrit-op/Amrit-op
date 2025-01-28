@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrit-op&label=Profile%20views&color=0e75b6&style=flat" alt="amrit-op" /> </p>
 
-- 🔭 I’m currently working on [text to image generator](https://github.com/Amrit-op/text-to-image-generator)
+- 🔭 I’m currently working on [WenNew-Dynamic WEB Translator](https://github.com/Amrit-op/WebNew-WebTranslator)
 
 - 🌱 I’m currently learning **Django, React.js, Angular, Express.js, Scikit-learn**
 
